@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Digital Historical Periodica
 
 You can use the [editor on GitHub](https://github.com/periodica/periodica.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
