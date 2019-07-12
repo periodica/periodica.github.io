@@ -9,5 +9,5 @@ This group is offered as a space for discussion on Digital Historical Periodica:
 - To join or access the Zotero library, go to: https://www.zotero.org/groups/704613
 - 
 
-![guernicaDetail.png](guernicaDetail.png)
 
+![IMG_20181110_191001.jpg](IMG_20181110_191001.jpg)
